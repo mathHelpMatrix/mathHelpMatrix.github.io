@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+};
+.top{
+    font-size: 100px;
+    margin: auto;
+    color: aqua;
+    opacity: 0.2;
+}
+span{
+    color: lightblue;
+}
